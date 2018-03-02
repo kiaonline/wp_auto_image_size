@@ -19,4 +19,4 @@ auto_image_size(int|WP_Post $post = null, string  $name = 'post-thumbnail',int $
 # example
 The code below create a thumbnail with 300 pixel width and 300 pixel height:
 
-  echo auto_image_size(null,'my-post-size-name',300,300);
+echo auto_image_size(null,'my-post-size-name',300,300);
